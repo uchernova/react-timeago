@@ -1,5 +1,5 @@
 {
-  "name": "react-timeago",
+  "name": "react-timeago-localized",
   "version": "4.4.0",
   "description": "A simple Time-Ago component for ReactJs",
   "main": "lib/index.js",

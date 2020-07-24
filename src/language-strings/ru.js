@@ -24,7 +24,7 @@ const strings: L10nsStrings = {
   seconds: 'меньше минуты',
   minute: 'минуту',
   minutes: function(value) {
-    return numpf(value, '%d минута', '%d минуты', '%d минут')
+    return numpf(value, '%d минуту', '%d минуты', '%d минут')
   },
   hour: 'час',
   hours: function(value) {
